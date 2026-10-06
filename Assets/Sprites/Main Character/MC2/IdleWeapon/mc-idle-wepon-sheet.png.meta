@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: a3f9dced87458044d91fe8f472e6bd15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8235533981044575940
+    second: mc2-idle-wepon-sheet_0
+  - first:
+      213: 5253944648724479803
+    second: mc2-idle-wepon-sheet_1
+  - first:
+      213: -2397951967482932303
+    second: mc2-idle-wepon-sheet_2
+  - first:
+      213: 8890216290062568810
+    second: mc2-idle-wepon-sheet_3
+  - first:
+      213: 5901671907310247879
+    second: mc2-idle-wepon-sheet_4
+  - first:
+      213: -2866997200254067621
+    second: mc2-idle-wepon-sheet_5
+  - first:
+      213: -5441745782631289549
+    second: mc2-idle-wepon-sheet_6
+  - first:
+      213: 1272293949082300206
+    second: mc2-idle-wepon-sheet_7
+  - first:
+      213: 1865088700529807783
+    second: mc2-idle-wepon-sheet_8
+  - first:
+      213: 4130034441301918398
+    second: mc2-idle-wepon-sheet_9
+  - first:
+      213: -3785889777131278614
+    second: mc2-idle-wepon-sheet_10
+  - first:
+      213: 7038378153234214653
+    second: mc2-idle-wepon-sheet_11
+  - first:
+      213: -2812942333513759458
+    second: mc2-idle-wepon-sheet_12
+  - first:
+      213: -4426798284108642916
+    second: mc2-idle-wepon-sheet_13
+  - first:
+      213: -7462355344636647952
+    second: mc2-idle-wepon-sheet_14
+  - first:
+      213: 6363476613164583530
+    second: mc2-idle-wepon-sheet_15
+  - first:
+      213: 4681431985570529369
+    second: mc2-idle-wepon-sheet_16
+  - first:
+      213: -1668566445465293631
+    second: mc2-idle-wepon-sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fd2c5a7185bd80800000000000000
+      internalID: -8235533981044575940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f79c842d2c9e840800000000000000
+      internalID: 5253944648724479803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b31bb5f363c8bed0800000000000000
+      internalID: -2397951967482932303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d02990d94606b70800000000000000
+      internalID: 8890216290062568810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf1120d453f6e150800000000000000
+      internalID: 5901671907310247879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c11d28c316638d0800000000000000
+      internalID: -2866997200254067621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d2844da090b74b0800000000000000
+      internalID: -5441745782631289549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fede41b9818a110800000000000000
+      internalID: 1272293949082300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 31
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a19cad9a4022e910800000000000000
+      internalID: 1865088700529807783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 63
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb20ee74174d05930800000000000000
+      internalID: 4130034441301918398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeae436e41d57bc0800000000000000
+      internalID: -3785889777131278614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2562b3a75da160800000000000000
+      internalID: 7038378153234214653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15014de9db66f8d0800000000000000
+      internalID: -2812942333513759458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95456f2a6ad092c0800000000000000
+      internalID: -4426798284108642916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e13fe953607890800000000000000
+      internalID: -7462355344636647952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4e28b34c9f4850800000000000000
+      internalID: 6363476613164583530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950451c6699c7f040800000000000000
+      internalID: 4681431985570529369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc2-idle-wepon-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca7e588af08d8e0800000000000000
+      internalID: -1668566445465293631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mc2-idle-wepon-sheet_0: -8235533981044575940
+      mc2-idle-wepon-sheet_1: 5253944648724479803
+      mc2-idle-wepon-sheet_10: -3785889777131278614
+      mc2-idle-wepon-sheet_11: 7038378153234214653
+      mc2-idle-wepon-sheet_12: -2812942333513759458
+      mc2-idle-wepon-sheet_13: -4426798284108642916
+      mc2-idle-wepon-sheet_14: -7462355344636647952
+      mc2-idle-wepon-sheet_15: 6363476613164583530
+      mc2-idle-wepon-sheet_16: 4681431985570529369
+      mc2-idle-wepon-sheet_17: -1668566445465293631
+      mc2-idle-wepon-sheet_2: -2397951967482932303
+      mc2-idle-wepon-sheet_3: 8890216290062568810
+      mc2-idle-wepon-sheet_4: 5901671907310247879
+      mc2-idle-wepon-sheet_5: -2866997200254067621
+      mc2-idle-wepon-sheet_6: -5441745782631289549
+      mc2-idle-wepon-sheet_7: 1272293949082300206
+      mc2-idle-wepon-sheet_8: 1865088700529807783
+      mc2-idle-wepon-sheet_9: 4130034441301918398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: afa4fb60ab55c26408e6f0e8852b1174
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6936261766630781203
+    second: MC1-attack-sheet2.0_0
+  - first:
+      213: -6352672790250479864
+    second: MC1-attack-sheet2.0_1
+  - first:
+      213: -6673265701470519138
+    second: MC1-attack-sheet2.0_2
+  - first:
+      213: 4887872684606479059
+    second: MC1-attack-sheet2.0_3
+  - first:
+      213: 1192218126599146671
+    second: MC1-attack-sheet2.0_4
+  - first:
+      213: -9199325847588531567
+    second: MC1-attack-sheet2.0_5
+  - first:
+      213: -1288134971648316591
+    second: MC1-attack-sheet2.0_6
+  - first:
+      213: 216263417836610189
+    second: MC1-attack-sheet2.0_7
+  - first:
+      213: 2845234233846131240
+    second: MC1-attack-sheet2.0_8
+  - first:
+      213: 1843432051328428020
+    second: MC1-attack-sheet2.0_9
+  - first:
+      213: -2037633396327544190
+    second: MC1-attack-sheet2.0_10
+  - first:
+      213: -5469868263135157888
+    second: MC1-attack-sheet2.0_11
+  - first:
+      213: -5473070830209050729
+    second: MC1-attack-sheet2.0_12
+  - first:
+      213: 8688508106616466344
+    second: MC1-attack-sheet2.0_13
+  - first:
+      213: 5112464038830343204
+    second: MC1-attack-sheet2.0_14
+  - first:
+      213: -7390992292545821348
+    second: MC1-attack-sheet2.0_15
+  - first:
+      213: 6438800012417110470
+    second: MC1-attack-sheet2.0_16
+  - first:
+      213: -2352708433361197944
+    second: MC1-attack-sheet2.0_17
+  - first:
+      213: -6279958540916060041
+    second: MC1-attack-sheet2.0_18
+  - first:
+      213: 7951639758604585813
+    second: MC1-attack-sheet2.0_19
+  - first:
+      213: 2928126298839420883
+    second: MC1-attack-sheet2.0_20
+  - first:
+      213: 3518176817948665443
+    second: MC1-attack-sheet2.0_21
+  - first:
+      213: 7278389954125613541
+    second: MC1-attack-sheet2.0_22
+  - first:
+      213: 8487298426872244675
+    second: MC1-attack-sheet2.0_23
+  - first:
+      213: -2425647774671907502
+    second: MC1-attack-sheet2.0_24
+  - first:
+      213: -7445779739676088408
+    second: MC1-attack-sheet2.0_25
+  - first:
+      213: -6934209124983686776
+    second: MC1-attack-sheet2.0_26
+  - first:
+      213: -8669680760309304284
+    second: MC1-attack-sheet2.0_27
+  - first:
+      213: 4521889384293313014
+    second: MC1-attack-sheet2.0_28
+  - first:
+      213: -8158940440207512617
+    second: MC1-attack-sheet2.0_29
+  - first:
+      213: -3920802799135546232
+    second: MC1-attack-sheet2.0_30
+  - first:
+      213: -2687818878497032895
+    second: MC1-attack-sheet2.0_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc-attack-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.36538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d2e59441b77943aab7c799b533949
+      internalID: -2018874484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.36538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a888c51f564dbd4583af599ce4ac707
+      internalID: -1134280021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.36538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fee46bcda9d43e479aa4eb772c34c83
+      internalID: -1824752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.36538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6edd246762fda1428b05915fad81ab0
+      internalID: -1988405610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.36538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6579a66f8d807764da2804195ab337c0
+      internalID: -540393182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.36538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993ee1d7082793641a553a79cb6e3ec1
+      internalID: -2132527844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456115e9868081a429366661a84e65b8
+      internalID: 1325634652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73406186328b55f4198f9e376686ad9a
+      internalID: -1247471901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707cd40a355dc841954ea244205abf7
+      internalID: 1524782159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559ac93149048c4caa8f95d90944d48
+      internalID: 1363547194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4372d4abd2ea3854eab7db2b76b799e0
+      internalID: 1514959608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b747a3e2da0644b83e91dee811895
+      internalID: -646141999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880cde1d33f6564fbbb85adab7c0450
+      internalID: 546965542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748c0e0bd94f13419553a4de03ca2e4
+      internalID: 634711207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668b114e41013644b82db08d715d1f4f
+      internalID: 1133107634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eabb6fbe8d286046a5e803f838cfda2
+      internalID: 1186341602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d56c220b97bc04f8f48d121dec61b8
+      internalID: 259574859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 52
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd430c70fd329f47a8684ec12cb2e37
+      internalID: -1788489411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb266d924436f754a8b8990bd95e22d7
+      internalID: 1870352912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1743f1f2449784bbcb0396679ea86a
+      internalID: -761340263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35b59821e0906b4b85471c31dd6e3a4
+      internalID: -1395603332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a582ac8e404e347af0996e5eb66e43
+      internalID: -2046848678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4859f8e5553f524489b56d0c41672b7e
+      internalID: -644776859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc-attack-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21bc707311c00947a6d10069db019df
+      internalID: -1481400714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f4c7b1424d8fa648a40f40008a8685c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":48.0,"y":52.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mc-attack-sheet_0: -2018874484
+      mc-attack-sheet_1: -1134280021
+      mc-attack-sheet_10: 1514959608
+      mc-attack-sheet_11: -646141999
+      mc-attack-sheet_12: 546965542
+      mc-attack-sheet_13: 634711207
+      mc-attack-sheet_14: 1133107634
+      mc-attack-sheet_15: 1186341602
+      mc-attack-sheet_16: 259574859
+      mc-attack-sheet_17: -1788489411
+      mc-attack-sheet_18: 1870352912
+      mc-attack-sheet_19: -761340263
+      mc-attack-sheet_2: -1824752808
+      mc-attack-sheet_20: -1395603332
+      mc-attack-sheet_21: -2046848678
+      mc-attack-sheet_22: -644776859
+      mc-attack-sheet_23: -1481400714
+      mc-attack-sheet_3: -1988405610
+      mc-attack-sheet_4: -540393182
+      mc-attack-sheet_5: -2132527844
+      mc-attack-sheet_6: 1325634652
+      mc-attack-sheet_7: -1247471901
+      mc-attack-sheet_8: 1524782159
+      mc-attack-sheet_9: 1363547194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

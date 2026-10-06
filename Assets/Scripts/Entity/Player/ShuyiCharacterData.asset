@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d64beb31c88ad14c835f4c49039f71e, type: 3}
+  m_Name: ShuyiCharacterData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Shuyi
+  spriteLibraryAsset: {fileID: 7108339969198208228, guid: fffebf54dd11c104097e0eb3df5d53c3, type: 3}
+  healthIconSprite: {fileID: -7880716576966016679, guid: d1783a7db7a1aa34b931664f632e0487, type: 3}
+  heartPrefab: {fileID: 4089156931876803891, guid: c3b56ba08255ee44ab7db641adcba146, type: 3}
+  animatorController: {fileID: 22100000, guid: 777de352253d17545bba1c31a1213216, type: 2}
+  maxHP: 3
+  currentHP: 0

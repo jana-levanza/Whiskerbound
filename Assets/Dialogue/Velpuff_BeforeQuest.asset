@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdab385c067d82a4f9735a1ac1ed59fe, type: 3}
+  m_Name: Velpuff_BeforeQuest
+  m_EditorClassIdentifier: Assembly-CSharp::GameDialogueData
+  typingSpeed: 0.05
+  autoProgressDelay: 1.5
+  autoProgressLines: 010101010101010101010101010100
+  dialogueLines:
+  - 'Yoichi:  May napansin ka bang karwahe na napadaan dito? '
+  - "Velpuff: Karwahe?... hmmm\u2026 \u2018yung sa hari ba? May napadaan nga dito
+    noong nakaraan. "
+  - "Shuyi: Ayun! May alam ka ba kung saan papunta \u2018yon? "
+  - "Velpuff: Hindi ko nakita kung saan tuloy-tuloy na pumunta. Ang napansin ko lang,
+    nagmamadali sila. Parang\u2026 Ay! Ano bang pake ko d\u2019yan sa hari na \u2018yan.
+    Ayoko marinig ang pangalan na \u2018yan! "
+  - 'Yoichi: Parang ayaw mo sa hari. '
+  - 'Velpuff: May dahilan kami. Pinagsasamantalahan lang kami habang siya lang ang
+    nakikinabang sa buong kaharian. Buti pa kung may tulong pa mga gwardya niyang
+    rumoronda rito. '
+  - 'Yoichi:  Mga gwardya? Na rumoronda? '
+  - 'Velpuff: Oo! Na parang may masamang balak sa amin. Edi sana tumulong na lang
+    sila sa nangyayari sa farm. '
+  - 'Yoichi: Ano ba nangyayari sa farm? '
+  - "Velpuff: Ang mga tanim\u2026paisa-isang nawawala\u2026 tapos nagkaroon ng mga
+    bakas sa lupa\u2026 mga kaluskos sa gabi\u2026 parang may gumagapang"
+  - "Shuyi: So parang mga\u2026 peste? "
+  - "Velpuff: Ganoon na nga. Pinaka-apektado si Wiggi, ang may-ari ng farm. Sobrang
+    lungkot ng awra niya nitong mga nakaraan\u2026 "
+  - 'Shuyi: Teka muna. Kilala niyo ba kung sino ang pinaka may alam sa nangyayari? '
+  - "Velpuff: Si Colby\u2026 siya yung pinaka-apektado. Subukan niyo siyang tanungin. "
+  - "Yoichi: Sige\u2026 siya susubukan naming kausapin. "

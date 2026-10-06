@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdab385c067d82a4f9735a1ac1ed59fe, type: 3}
+  m_Name: Scene3
+  m_EditorClassIdentifier: Assembly-CSharp::GameDialogueData
+  typingSpeed: 0.05
+  autoProgressDelay: 1.5
+  autoProgressLines: 010101010101010100
+  dialogueLines:
+  - "Yoichi: Shuyi\u2026 tingnan mo \u2018to."
+  - "Shuyi: \u2026Mga bakas? Hindi ito ordinaryong hayop\u2026"
+  - "Yoichi: May\u2026 gulong? Parang galing sa karwahe\u2026"
+  - "Shuyi: Karwahe? Ibig mong sabihin\u2026 may ibang tao rito?"
+  - "Yoichi: Kung may tao\u2026 baka may alam sila kung nasaan si Neela."
+  - "Shuyi: \u2026At paano kung sila ang kumuha sa kanya?"
+  - "Yoichi: \u2026Huwag mong sabihin \u2018yan."
+  - "Shuyi: Hindi natin alam kung anong klaseng lugar \u2018to. Yoichi\u2026 baka
+    hindi tayo ligtas dito."
+  - "Yoichi: \u2026Kaya nga kailangan nating gumalaw agad."

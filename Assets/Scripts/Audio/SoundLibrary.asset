@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd6f2157e3dc394887e60561668f2cb, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::SoundLibrary
+  bgmGroups:
+  - groupName: Intro
+    audioClips:
+    - {fileID: 8300000, guid: 2dee829b0607d1a4ba0434a38b745c18, type: 3}
+  - groupName: Forest
+    audioClips:
+    - {fileID: 8300000, guid: b567eeecf3a0843458af24d4ae9c2e8d, type: 3}
+  - groupName: Village
+    audioClips:
+    - {fileID: 8300000, guid: f6724a422a42aea4cb54addd5468d231, type: 3}
+  - groupName: Maze
+    audioClips:
+    - {fileID: 8300000, guid: 072c4268f3b690c428159c000cd78495, type: 3}
+  - groupName: Puzzle
+    audioClips:
+    - {fileID: 8300000, guid: a86fb43675f9eae45807b4bd4c6bf6ae, type: 3}
+  - groupName: Combat
+    audioClips:
+    - {fileID: 8300000, guid: ff6d8706eb4eb374cb9beb6c5bda29a0, type: 3}
+    - {fileID: 8300000, guid: 3ec05ba0e89eb554c841841d9ae391ee, type: 3}
+  - groupName: Event
+    audioClips:
+    - {fileID: 8300000, guid: 058fe9d9135af46408273c213a61276f, type: 3}
+    - {fileID: 8300000, guid: 10cb351de09aa8c418ef44e493fd2b92, type: 3}
+  - groupName: Ending
+    audioClips:
+    - {fileID: 8300000, guid: 8b339e5f1c381504dbc165987f8b222c, type: 3}
+  ambianceGroups:
+  - groupName: Forest
+    audioClips:
+    - {fileID: 8300000, guid: 03d02496a4da86d4b979a57d277d12b3, type: 3}
+  - groupName: Maze
+    audioClips:
+    - {fileID: 8300000, guid: 5f14ff4a2a993184193bade1539dda57, type: 3}
+  - groupName: Village
+    audioClips:
+    - {fileID: 8300000, guid: f73a0d3de98c6f84c8bfde0602f5d40e, type: 3}
+    - {fileID: 8300000, guid: 107aed3e779399f4cb48add376b8f34a, type: 3}
+  sfxCombat:
+  - groupName: EnemyDeath
+    audioClips:
+    - {fileID: 8300000, guid: 0d296dc5c08dfb1448de173cc6e3fa3c, type: 3}
+  - groupName: EnemyHit
+    audioClips:
+    - {fileID: 8300000, guid: 616b58f8058ce354389098b6a4aae3b6, type: 3}
+    - {fileID: 8300000, guid: e99a69ed23c696e4bae42e13af84127e, type: 3}
+  - groupName: PlayerDamage
+    audioClips:
+    - {fileID: 8300000, guid: 64012d21b262f2b4e81cf5a09124c98f, type: 3}
+    - {fileID: 8300000, guid: 9f9e5181c8b0eaa43877ea6e146b8176, type: 3}
+    - {fileID: 8300000, guid: dc6f876ed3e8ee54bbd076d5e64ea5c6, type: 3}
+  - groupName: SkillFire
+    audioClips:
+    - {fileID: 8300000, guid: 799be530379652046a41f6bc2cfda50a, type: 3}
+    - {fileID: 8300000, guid: 23b0c0fd5f77ca440a175b8ad70a4fb6, type: 3}
+  - groupName: SkillWater
+    audioClips:
+    - {fileID: 8300000, guid: d68092dfeb97cc348a050e82f144b1ed, type: 3}
+    - {fileID: 8300000, guid: 5422e612fc15153418550f5c9b72b380, type: 3}
+  - groupName: Torch
+    audioClips:
+    - {fileID: 8300000, guid: 0cff589661b93d34c9720cc407c63a8b, type: 3}
+  - groupName: TreeChop
+    audioClips:
+    - {fileID: 8300000, guid: bb2de2dcd9d2b6d488e585d2a334771e, type: 3}
+  sfxEvent:
+  - groupName: BeadPickup
+    audioClips:
+    - {fileID: 8300000, guid: b1e5044b73aea484583a027f8260e989, type: 3}
+  - groupName: LockedDoor
+    audioClips:
+    - {fileID: 8300000, guid: 8ee01ece31b41844dad00c69e1513776, type: 3}
+    - {fileID: 8300000, guid: 1ede10e96777aa046953a4e59648f44d, type: 3}
+  - groupName: TaskComplete
+    audioClips:
+    - {fileID: 8300000, guid: 98844e3c07d053146ab20e3417fc4593, type: 3}
+  - groupName: Event
+    audioClips:
+    - {fileID: 8300000, guid: 058fe9d9135af46408273c213a61276f, type: 3}
+  sfxPlayer:
+  - groupName: AttackShuyi
+    audioClips:
+    - {fileID: 8300000, guid: 1e924ef5957ab78458b73be7ef73abac, type: 3}
+  - groupName: AttackYoichi
+    audioClips:
+    - {fileID: 8300000, guid: b8abbac61456e5345aaaeb0a291bcee4, type: 3}
+    - {fileID: 8300000, guid: b4b6c0dbfa391dc45a3cb0313ca9b94d, type: 3}
+  - groupName: Cancel
+    audioClips:
+    - {fileID: 8300000, guid: fa65f4cee3b65e04b86ed57b05125161, type: 3}
+  - groupName: Dash
+    audioClips:
+    - {fileID: 8300000, guid: 009501ae221f15842a6e790ab24a472c, type: 3}
+    - {fileID: 8300000, guid: a7e0709d9c335e34a871705febc64193, type: 3}
+    - {fileID: 8300000, guid: 97a177698d7cf874a9ed207bd63a116e, type: 3}
+  - groupName: FTConcrete
+    audioClips:
+    - {fileID: 8300000, guid: 0bce9fbc5a35a954bb34010132c15bab, type: 3}
+  - groupName: FTGrass
+    audioClips:
+    - {fileID: 8300000, guid: 51abcbbc187b68145b2b81937d622f5c, type: 3}
+  - groupName: FTWood
+    audioClips:
+    - {fileID: 8300000, guid: 37f69d53707d87f46ac09df0528f8c93, type: 3}
+  - groupName: Interact
+    audioClips:
+    - {fileID: 8300000, guid: d63970dd6968b6b4ca621fef464554e5, type: 3}
+  - groupName: Switch
+    audioClips:
+    - {fileID: 8300000, guid: a5a365a6c50587d4eb2543b31ee2eb0d, type: 3}
+    - {fileID: 8300000, guid: f41f177e3a0045147bc3cc80a566592d, type: 3}
+  sfxUI:
+  - groupName: InteractBook
+    audioClips:
+    - {fileID: 8300000, guid: 96205ef1cf647ad4483961f62a99e7f8, type: 3}
+  - groupName: Menu
+    audioClips:
+    - {fileID: 8300000, guid: e880f1f80d4c9264eb73de77aa7b34d3, type: 3}
+    - {fileID: 8300000, guid: cd3e2a1901a03d5438057bc81ffc61f9, type: 3}
+  - groupName: OpenBook
+    audioClips:
+    - {fileID: 8300000, guid: abecef68baed06d4d8f5cf197f6e49c5, type: 3}
+    - {fileID: 8300000, guid: c2daaaae6144430468105ec36ed3ae94, type: 3}
+  - groupName: Typing
+    audioClips:
+    - {fileID: 8300000, guid: e416df1d8e7abbb458463d6866a6cdd2, type: 3}
+    - {fileID: 8300000, guid: 9880ba881a5e80e4fa80db7a4fd534db, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdab385c067d82a4f9735a1ac1ed59fe, type: 3}
+  m_Name: Velpuff_DuringFarm
+  m_EditorClassIdentifier: Assembly-CSharp::GameDialogueData
+  typingSpeed: 0.05
+  autoProgressDelay: 1.5
+  autoProgressLines: 0101010101010100
+  dialogueLines:
+  - "Velpuff:  Nakausap n\u2019yo na ba si Colby? "
+  - 'Shuyi:  Oo. Papunta na kami sa taniman. '
+  - 'Yoichi:  Ramdam din namin. Parang may nabubulok na hindi dapat. '
+  - "Velpuff:  At \u2018yon ang kinakatakot namin. Noong una, akala namin simpleng
+    peste lang. Pero habang tumatagal, parang may kung anong kumakapit sa buong farm. "
+  - 'Shuyi:  May napansin ka pa bang iba? '
+  - 'Velpuff:  Kapag gabi, may mga anino sa gilid ng taniman. Hindi mo makita nang
+    buo, pero alam mong may gumagalaw. '
+  - 'Yoichi:  Wow. Mas lalo mo lang pinaganda ang pakiramdam ko. '
+  - 'Velpuff:  Pasensya na. Mas mabuti nang handa kayo kaysa mabigla. '

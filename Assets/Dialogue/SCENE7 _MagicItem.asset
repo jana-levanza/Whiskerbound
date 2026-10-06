@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdab385c067d82a4f9735a1ac1ed59fe, type: 3}
+  m_Name: SCENE7 _MagicItem
+  m_EditorClassIdentifier: Assembly-CSharp::GameDialogueData
+  typingSpeed: 0.05
+  autoProgressDelay: 1.5
+  autoProgressLines: 01010101010101010101010101010101010100
+  dialogueLines:
+  - "Simon: \u2026Bago kayo umalis."
+  - "Yoichi: \u2026Ano \u2018yan?"
+  - "Simon: \u2026Dalhin niyo \u2018to."
+  - "Shuyi: \u2026Isang\u2026 hiyas?"
+  - "Yoichi: Hindi namin puwedeng kunin \u2018yan."
+  - "Simon: Makakatulong \u2018yan sa inyo\u2026 sa oras na wala na kayong ibang
+    malalapitan. "
+  - "Shuyi: \u2026Hindi namin alam kung paano \u2018yan gamitin. "
+  - 'Simon: Hindi niyo kailangan malaman agad. '
+  - "Yoichi: \u2026Parang hindi tama. "
+  - "Simon: \u2026Utang ko \u2018to. "
+  - "Shuyi: \u2026Utang? "
+  - "Simon: Pinakinggan niyo ako\u2026 at pinaalala niyo sa akin kung bakit hindi
+    pa tapos ang lahat. "
+  - "Simon: \u2026Matagal na akong hindi ngumiti. "
+  - "Yoichi: \u2026Natutuwa kaming marinig yan Simon, Maraming salamat."
+  - 'Shuyi: Salamat Simon.'
+  - "Yoichi: May isang problema pa\u2026"
+  - 'Shuyi: May malaking puno na humaharang sa daan. '
+  - "Simon: \u2026Kung gano\u2019n\u2026"
+  - "Simon: Magtiwala kayo sa isa\u2019t isa. \u2026at sa sarili niyo. Hindi lahat
+    ng sagot\u2026 kailangan hanapin sa labas."

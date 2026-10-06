@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d64beb31c88ad14c835f4c49039f71e, type: 3}
+  m_Name: YoichiCharacterData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Yoichi
+  spriteLibraryAsset: {fileID: 7108339969198208228, guid: c96908ee4432ee240aef9ea3e7b191a5, type: 3}
+  healthIconSprite: {fileID: 7015945564824822087, guid: d1783a7db7a1aa34b931664f632e0487, type: 3}
+  heartPrefab: {fileID: 816088306991799015, guid: 3f0e85157a545724dbbe916febfa3280, type: 3}
+  animatorController: {fileID: 9100000, guid: f5ec45e1018595846880af7bc0545406, type: 2}
+  maxHP: 3
+  currentHP: 3

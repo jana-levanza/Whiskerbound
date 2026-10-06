@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdab385c067d82a4f9735a1ac1ed59fe, type: 3}
+  m_Name: Scene2
+  m_EditorClassIdentifier: Assembly-CSharp::GameDialogueData
+  typingSpeed: 0.05
+  autoProgressDelay: 1.5
+  autoProgressLines: 0101010101010101010101010101010101
+  dialogueLines:
+  - "Yoichi: ...Shuyi? Gising ka ba? \u2026Nasaan tayo?!"
+  - "Shuyi: Yoichi\u2026 hindi \u2018to\u2026 hindi \u2018to yung bahay natin\u2026
+    bakit ganito itsura natin\u2026?"
+  - "Yoichi: Hindi ko alam\u2014pero sandali\u2014si Neela?! Nasaan si Neela?! "
+  - "Shuyi: Hindi ko siya nakikita\u2026 kanina\u2026 narinig natin siya, \u2018di
+    ba? Tapos yung libro\u2014"
+  - "Yoichi: Kasalanan mo \u2018to! Kung hindi tayo nag-away\u2014 "
+  - "Shuyi: Kasalanan ko?! Ikaw \u2018tong\u2014 "
+  - "Shuyi: \u2026hindi \u2018to oras para magturoan."
+  - "Yoichi: \u2026Tsk. Fine. Hindi mahalaga \u2018yon ngayon. "
+  - "Shuyi: Yoichi\u2026 natatakot ako\u2026 hindi tayo tao\u2026 hindi ko maintindihan
+    kung anong nangyari sa atin\u2026"
+  - "Yoichi: \u2026Ako rin. Pero\u2026 hindi puwedeng mag-panic tayo. "
+  - "Shuyi: Paano ka hindi magpa-panic? Hinigop tayo ng libro, tapos paggising natin\u2026
+    ganito na tayo?"
+  - "Yoichi: \u2026Baka\u2026 baka nasa loob tayo ng libro? "
+  - "Shuyi: \u2026Hindi nakakatawa \u2018yan. "
+  - 'Yoichi: Hindi ako nagbibiro.'
+  - "Yoichi: Isa lang muna isipin natin\u2026 hanapin natin si Neela. "
+  - "Shuyi: \u2026Oo. Kahit anong mangyari\u2026 hahanapin natin siya. "
+  - 'Yoichi: Hindi ko siya iiwan. '
+  - 'Shuyi: Hindi natin siya iiwan.'

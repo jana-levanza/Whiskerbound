@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8af04112463caa347b65aa76a74d01ef, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDatabase
+  characters:
+  - characterName: Shuyi
+    portrait: {fileID: -1110275402, guid: 0f2ed5a6bc402be498428a105a33f12b, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Yoichi
+    portrait: {fileID: -695663100, guid: b7c76b7c879d8074091eabf7360c5bb7, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Simon
+    portrait: {fileID: 819896741557134399, guid: 754f8dd20a7eb5642b768b06134b1881, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: King Mallows
+    portrait: {fileID: 1672635217904141516, guid: 39710309e11077b49baea9e2b480fe2d, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Fresvy
+    portrait: {fileID: 3594780503297536291, guid: dea8f391dcfbd194185f471c7b45374d, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Velpuff
+    portrait: {fileID: -7695699027471183453, guid: 727689f7b9f6a66498c343ceaf5452c6, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Lalei
+    portrait: {fileID: 4782309953442791503, guid: eaab5d774ac38d7429ca0c78cd2b95f0, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Colby
+    portrait: {fileID: -6383710753302253739, guid: 7c9bd337b6421c145b5a95a30f5701f4, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Wiggi
+    portrait: {fileID: -6151592835889732586, guid: 90c15ba825449184c901721afbc47004, type: 3}
+    defaultVoice: {fileID: 0}
+  - characterName: Jinbe
+    portrait: {fileID: 642176339385962531, guid: 0b1c102da3a73bd49b29a8b3f45856c6, type: 3}
+    defaultVoice: {fileID: 0}

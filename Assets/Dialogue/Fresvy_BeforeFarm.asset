@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdab385c067d82a4f9735a1ac1ed59fe, type: 3}
+  m_Name: Fresvy_BeforeFarm
+  m_EditorClassIdentifier: Assembly-CSharp::GameDialogueData
+  typingSpeed: 0.05
+  autoProgressDelay: 1.5
+  autoProgressLines: 0101010101010100
+  dialogueLines:
+  - 'Shuyi: May nakita ba kayong karwahe. May sinusundan kasi kami na kumuha ng pusa
+    namin. May alam ka ba tungkol doon '
+  - "Fresvy: Pusa? Ano \u2018yon? Karwahe? Hmmm\u2026 ang tinutukoy mo ba ay \u2018yung
+    sa hari? "
+  - "Shuyi: Uhm\u2026 hindi kami taga-rito sa lugar na \u2018to\u2026 Pero oo, \u2018yung
+    karwahe nga ng hari. "
+  - "Fresvy: Ahhh\u2026 hindi ko sigurado eh\u2026 pero si Velpuff, parang may napansin
+    siya noong dumaan \u2018yon malapit sa farm. Subukan niyo siyang tanungin. "
+  - "Fresvy: Oo, pero mag-iingat kayo\u2026 nitong mga nakaraan\u2026 may mga problema
+    rito\u2026 hindi lang basta basta. Ilang gabi na \u2018kong may naririnig do\u2019n\u2026
+    may kaluskos\u2026 parang may gumagapang sa lupa, pero mabigat. "
+  - "Shuyi: Gaano katagal mo nang napapansin \u2018yan? "
+  - 'Fresvy: Ilang gabi na rin. Hindi siya nawawala. Kaya mas lalong kinakabahan
+    ang mga tao rito.'
+  - "Fresvy: Mag-iingat kayo! May mga rumoronda rin na mga gwardya ng hari\u2026
+    hindi mo sigurado kung ano ba ang pakay nila\u2026 "

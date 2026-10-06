@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - NPC
+  - Props
+  - Actors
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PlayerBoundary
+  - Enemy
+  - NPC
+  - Props
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 323054445
+    locked: 0
+  - name: Water
+    uniqueID: 2027375045
+    locked: 0
+  - name: Objects
+    uniqueID: 4017268377
+    locked: 0
+  - name: Object_Interact
+    uniqueID: 274853663
+    locked: 0
+  - name: Entity
+    uniqueID: 1574087621
+    locked: 0
+  - name: Foreground
+    uniqueID: 4109104047
+    locked: 0
+  m_RenderingLayers:
+  - Default
