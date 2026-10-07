@@ -6,12 +6,11 @@
 
 A 2D top-down pixel-art adventure for mobile, built in Unity. Two characters, one cat, and a candy-colored kingdom that isn't as sweet as it looks.
 
-**[Watch the gameplay video](YOUR_YOUTUBE_LINK)** · **[Download the Android build](YOUR_RELEASES_LINK)**
+**[Download the Android build](https://github.com/jana-levanza/Whiskerbound/releases/latest)**
 
 <p align="center">
-  <img src="Docs/gifs/combat.gif" width="45%">
-  <img src="Docs/gifs/character-switching.gif" width="45%">
-  <img src="Docs/gifs/main-menu.gif" width="45%">
+  <img src="Docs/qr-code.png" width="160" alt="Scan to download the Android demo"><br>
+  <sub>Scan to download the Android demo</sub>
 </p>
 
 ---
@@ -82,10 +81,8 @@ Some of the tilesets came from free online asset packs. They're listed in the cr
 | ![Lights](Docs/screenshots/scene-village-04.png) | ![Combat](Docs/screenshots/combat-02.png) |
 | ![Puzzel](Docs/screenshots/level-02-puzzel.png) | ![Lose screen](Docs/screenshots/ui-lose.png) |
 
-<details>
-<summary>More gameplay GIFs</summary>
 
-![Main Menu](Docs/gifs/main-mennu.gif)
+![Main Menu](Docs/gifs/main-menu.gif)
 ![Character switching](Docs/gifs/character-switching.gif)
 ![Combat](Docs/gifs/combat.gif)
 
@@ -140,10 +137,6 @@ We plan to keep building this after the course ends:
 - **Jana P. Levanza**: project management, level design, 2D art, concept art
 - **John Rick S. Mabalot**: game design, gameplay programming, QA testing
 - **Kimberly A. Legaspi**, **Kate Czarina G. Villareal** and **Lyanna Arquil G. Magtuloy**: narrative writing and sound design
-- Tilesets: Sprout Lands by Cup Nooble (https://cupnooble.itch.io/)
+- Tilesets: Sprout Lands by Cup Nooble https://cupnooble.itch.io/
 
 Thank you to Kwintas, for the idea.
-
-## License
-
-[CHOOSE ONE. Ask your team first.]
