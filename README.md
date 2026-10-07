@@ -121,7 +121,7 @@ Before building anything, we planned the game in a design document and a storybo
 1. Install Unity 6.3 LTS (6000.3.4f1) through Unity Hub.
 2. Run `git lfs install`, then clone the repo.
 3. Add the project in Unity Hub and open it.
-4. Open `Assets/Scenes/[YOUR_MAIN_SCENE].unity` and press Play.
+4. Open `Assets/Scenes/MainMenu.unity` and press Play.
 
 ## What's next
 
