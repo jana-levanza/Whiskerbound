@@ -90,7 +90,7 @@ Some of the tilesets came from free online asset packs. They're listed in the cr
 
 ## Art process
 
-![Character and design sheet](Docs/design/design-process.png)
+![Character and design sheet](Docs/design/design-process-01.png)
 
 <!-- Add your building concepts, character concepts and one before/after iteration here. -->
 
